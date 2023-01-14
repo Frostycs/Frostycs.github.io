@@ -1,1 +1,1 @@
-[See Resume here]http://Frostycs.github.io
+[See Resume here](http://Frostycs.github.io)
